@@ -30,3 +30,6 @@ After the reset, the Furby Boom will start fresh as if it were new.
 
 Summary
 Unlocked Booms expands the capabilities of Furby Boom by unlocking hidden features and allowing experimental behaviors, but it may permanently modify stored data unless the device is fully reset.
+
+# Just a joke!
+Nothing will actually happen to your Furby.Reboot, nothing gets reset during the process.And nothing gets changed
